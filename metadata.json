@@ -1,0 +1,8 @@
+{
+  "name": "Agentic AI Adaptive PQC Smart Door Lock",
+  "description": "Multi-layered quantum-resistant smart door lock security engine with LangGraph agent, ML risk assessment, NIST PQC profiles, and virtual/hardware node telemetry.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
